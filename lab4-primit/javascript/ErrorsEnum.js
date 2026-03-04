@@ -1,4 +1,4 @@
-const prompt=require("prompt-sync")({sigint:true}); 
+ runhaskellconst prompt=require("prompt-sync")({sigint:true}); 
 
 const Error_enumobj = {
 	FP_ROUNDING: "FP_ROUNDING",
